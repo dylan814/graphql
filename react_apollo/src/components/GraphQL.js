@@ -119,7 +119,7 @@ console.log(this.props);
 return (
 <div>
 {this.displayUsers()}
-{this.displayPosts()}
+
 </div>
 
 )
