@@ -1,0 +1,7 @@
+# graphql
+A Grapqhproject using Apollo, graphQL server and some queries and mutations. 
+
+These files are part of a GraphQL project that was created by Dylan Pereira to PoC GraphQL functionality using a Node Backend, Express server, GraphQL server, React front end. 
+
+
+* Created a GraphQL schema with various data types 
